@@ -1,3 +1,5 @@
+> **Development has moved:** See [the `explode-to-mine` module in the Bertie monorepo](https://github.com/bertie-mc/bertie/tree/main/mods/explode-to-mine). This repository is retained read-only for historical tags, releases, and issues.
+
 # ExplodeToMine
 
 Locks certain ores so they must be exploded into a cracked, mineable twin block before they can be harvested - hand-mining the intact ore yields nothing.
